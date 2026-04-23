@@ -1,5 +1,9 @@
 # FiapDelivery - Sistema de Logística
 
+## Diagrama
+
+![](diagram.png)
+
 ## Visão Geral
 O FiapDelivery é um sistema de logística orientado a objetos, projetado para gerenciar entregas de pacotes utilizando diferentes tipos de veículos. O projeto foi refatorado para seguir boas práticas de Engenharia de Software, como encapsulamento, reutilização de código via herança e flexibilidade na associação entre classes.
 
